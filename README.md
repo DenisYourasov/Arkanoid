@@ -1,2 +1,0 @@
-# Arkanoid
-# for del
